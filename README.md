@@ -9,7 +9,7 @@ Bu proje, Laravel framework'ü kullanılarak geliştirilmiş bir blog uygulamas�
 - Blog gönderilerini listeleme ve görüntüleme
 - Kullanıcı doğrulaması (kayıt, giriş)
 - Gönderi düzenleme ve silme işlemleri
-- Admin paneli üzerinden gönderi yönetimi
+
 
 ## Kurulum
 
