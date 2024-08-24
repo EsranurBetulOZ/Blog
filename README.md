@@ -20,9 +20,9 @@ Aşağıdaki adımları izleyerek projeyi yerel ortamınızda çalıştırabilir
    git clone https://github.com/EsranurBetulOZ/Blog.git
 
 ## Gereksinimler
-PHP >= 8.0
-Composer
-MySQL veya başka bir veritabanı yönetim sistemi
+- PHP >= 8.0
+- Composer
+- MySQL veya başka bir veritabanı yönetim sistemi
 
 
 ## Kullanılan Teknolojiler
