@@ -1,3 +1,39 @@
+
+# Blog Projesi
+
+Bu proje, Laravel framework'ü kullanılarak geliştirilmiş bir blog uygulamasıdır. Laravel, PHP ile geliştirilmiş modern web uygulamaları için güçlü bir framework'tür. Bu proje, kullanıcıların blog gönderileri oluşturmasına, düzenlemesine ve görüntülemesine olanak tanır.
+
+## Özellikler
+
+- Blog gönderisi oluşturma
+- Blog gönderilerini listeleme ve görüntüleme
+- Kullanıcı doğrulaması (kayıt, giriş)
+- Gönderi düzenleme ve silme işlemleri
+- Admin paneli üzerinden gönderi yönetimi
+
+## Kurulum
+
+Aşağıdaki adımları izleyerek projeyi yerel ortamınızda çalıştırabilirsiniz:
+
+1. **Projeyi Klonlayın**:
+   ```bash
+   git clone https://github.com/EsranurBetulOZ/Blog.git
+
+##Gereksinimler
+PHP >= 8.0
+Composer
+MySQL veya başka bir veritabanı yönetim sistemi
+
+
+##Kullanılan Teknolojiler
+Laravel: Web uygulamaları için PHP framework'ü
+MySQL: Veritabanı yönetimi için
+Bootstrap: CSS framework'ü
+Blade: Laravel'in şablon motoru
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
